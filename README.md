@@ -148,7 +148,7 @@ The application implements a manual linear regression algorithm:
 
 ## Author
 
-MOHIT POONIA
+DIVA TRIPATHI
 University Project - Smart Expense Tracker
 
 ## License
